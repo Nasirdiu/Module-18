@@ -1,4 +1,4 @@
-var result=60;
+var result=79;
 
 if(result>= 90){
     console.log('A+')
@@ -18,3 +18,4 @@ else if(result>= 50){
 else {
     console.log('Fall F')
 }
+
